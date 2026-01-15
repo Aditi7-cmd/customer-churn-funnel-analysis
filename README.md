@@ -36,3 +36,15 @@ Identified high-risk churn segments and behavioral patterns that can be targeted
 - Power BI (.pbix) dashboard file  
 - Raw dataset  
 - Dashboard screenshots
+## 📸 Dashboard Preview
+
+### Overview & KPIs
+![Overview](screenshots/overview.png)
+
+### Churn Analysis
+![Churn Analysis](screenshots/churn_analysis.png)
+
+### Funnel & Segmentation
+![Funnel](screenshots/funnel.png)
+
+- 
