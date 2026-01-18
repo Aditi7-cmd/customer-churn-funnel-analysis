@@ -38,13 +38,19 @@ Identified high-risk churn segments and behavioral patterns that can be targeted
 - Dashboard screenshots
 ## 📸 Dashboard Preview
 
-### Overview & KPIs
-![Overview](screenshots/overview.png)
+### 1️⃣ Navigation & Landing Page  
+This page provides high-level project context and guided navigation to key dashboards.
 
-### Churn Analysis
-![Churn Analysis](screenshots/churn_analysis.png)
+🔗 View Navigation Page  
+https://1drv.ms/i/c/7970076d75fe9e1b/IQCLJiEKrE-RRaLKnYu-BhsYARRluJ_Kn8M-EYWhUb_MOus?e=ByuGWg
 
-### Funnel & Segmentation
-![Funnel](screenshots/funnel.png)
+---
+
+### 2️⃣ Customer Churn & Funnel Analysis Dashboard  
+This dashboard presents churn rate, tenure-based risk, contract-wise churn distribution, and customer funnel metrics with interactive slicers.
+
+🔗 View Churn & Funnel Dashboard  
+https://1drv.ms/i/c/7970076d75fe9e1b/IQC8d_qzFEp_T7O5mW05nJoIAVfYMu2wqLTisrOdcYVc9Ak?e=5HFonD
+
 
 - 
